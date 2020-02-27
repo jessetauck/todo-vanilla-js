@@ -1,0 +1,17 @@
+{
+  "listItems": [
+    {
+      "label": "Fork repository",
+      "link": "https://github.com/jessetauck/tauck-todo-react"
+    },
+    {
+      "label": "Build To Do list"
+    },
+    {
+      "label": "Test To Do List"
+    },
+    {
+      "label": "Submit Pull Request"
+    }
+  ]
+}
